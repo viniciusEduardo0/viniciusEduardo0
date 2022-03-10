@@ -1,5 +1,5 @@
  <h2 align="center"> Hi! I am Vinícius Eduardo... </h2>
- <img src="https://icons.iconarchive.com/icons/jonathan-rey/star-wars-vehicles/256/Death-Star-2nd-icon.png" min-width="200px" max-width="200px" width="250px" align="right" alt="Computer Dev">
+ <img src="https://icons.iconarchive.com/icons/jonathan-rey/star-wars-vehicles/256/Death-Star-2nd-icon.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computer Dev">
  
  ##
 <div>
