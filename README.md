@@ -1,5 +1,5 @@
  <h2 align="center"> Hi! I am Vinícius Eduardo... </h2>
- <img src="https://icons.iconarchive.com/icons/jonathan-rey/star-wars-vehicles/256/Death-Star-2nd-icon.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computer Dev">
+ <img src="https://icons.iconarchive.com/icons/jonathan-rey/star-wars-vehicles/256/Death-Star-2nd-icon.png" min-width="200px" max-width="200px" width="150px" align="right" alt="Computer Dev">
  
  ##
 <div>
@@ -26,7 +26,5 @@
   <a href="https://www.linkedin.com/in/vinícius-eduardo-39b48a220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/vini_edu0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciuseduardo334@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/viniciusEduardo0/viniciusEduardo0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
